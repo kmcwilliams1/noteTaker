@@ -18,6 +18,12 @@ app.get('/api/notes' , (req, res) => {
         res.end()
       });
 
+
+
+// app.delete('/api/notes/:id' , (req, res) =>{
+//     req.params.id;
+// })
+
 // req.params.id
 // .filter()
 
